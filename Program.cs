@@ -21,7 +21,7 @@ namespace ConsoleApp
                 }
                 catch
                 {
-                    Console.WriteLine("no no no");
+                    Console.WriteLine("No No No! Be attentive! Try again.");
                     Console.ReadLine();
                     continue;
                 }
